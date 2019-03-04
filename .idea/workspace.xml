@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e771615-9d87-4958-8ae2-623c89c200ff" name="Default" comment="" />
+    <list default="true" id="2e771615-9d87-4958-8ae2-623c89c200ff" name="Default" comment="run">
+      <change afterPath="Q:/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="Q:/PHPStormProjects/1808891.github.io" beforeDir="false" afterPath="Q:/PHPStormProjects/1808891.github.io" afterDir="false" />
+      <change beforePath="Q:/PHPStormProjects/Labs" beforeDir="false" afterPath="Q:/PHPStormProjects/Labs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +41,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="Q:/" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -58,6 +65,7 @@
     <option name="width" value="1700" />
     <option name="height" value="2066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -130,12 +138,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551197335465</updated>
       <workItem from="1551197339605" duration="51000" />
-      <workItem from="1551693995981" duration="1368000" />
+      <workItem from="1551693995981" duration="1789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1419000" />
+    <option name="totallyTimeSpent" value="1840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="850" height="1033" extended-state="0" />
@@ -147,7 +155,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -167,6 +175,9 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://Q:/PHPStormProjects/Lab8/Index.php">
